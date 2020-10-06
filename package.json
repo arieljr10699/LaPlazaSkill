@@ -1,0 +1,23 @@
+{
+  "name": "alexa-shpify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arieljr10699/Grupo-2-Skill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arieljr10699/Grupo-2-Skill/issues"
+  },
+  "homepage": "https://github.com/arieljr10699/Grupo-2-Skill#readme",
+  "dependencies": {
+    "ask-sdk": "^2.9.0",
+    "axios": "^0.20.0"
+  }
+}
